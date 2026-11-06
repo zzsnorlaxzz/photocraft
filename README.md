@@ -1,3 +1,7 @@
+> **참고용 포크** · 이 저장소는 원본 코드와 이력을 보존합니다. 최신 개발과 사용 안내는 [storytold/photocraft](https://github.com/storytold/photocraft)을 확인하세요.
+>
+> 2026-11-06 정리 기준, 이 안내 추가 전 기본 브랜치에 원본에 없는 추가 커밋은 없었습니다.
+
 <p align="center">
   <a href="https://getartcraft.com/">
     <picture>
